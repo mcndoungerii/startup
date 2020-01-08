@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">startup</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="textview">TextView</string>
+</resources>
